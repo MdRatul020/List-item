@@ -1,0 +1,31 @@
+.a {
+  list-style-type: circle;
+}
+
+.b {
+  list-style-type: square;
+}
+
+.c {
+  list-style-type: upper-roman;
+}
+
+.d {
+  list-style-type: lower-alpha;
+}
+
+.ol-1 {
+  list-style-type: armenian;
+}
+
+.ol-2 {
+  list-style-type: decimal;
+}
+
+.ol-3 {
+  list-style-type: decimal-leading-zero;
+}
+
+.ol-4 {
+  list-style-type: georgian;
+}
